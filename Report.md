@@ -24,5 +24,4 @@ For Exploratory Boost I used Ornstein-Uhlenbeck noise with parameters of 0.13 th
 
 ### Results and Future Work
 
-
 Agent is able to train in 384 episodes with average reward of 0.5 using the above hyper parameters.
